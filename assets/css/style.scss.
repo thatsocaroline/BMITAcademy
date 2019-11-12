@@ -1,0 +1,32 @@
+#cgpage{
+  height:520px;
+  width:1280px;
+  margin:0px 24px;
+}
+
+img {
+  border: 5px solid black;
+}
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-color:#585858;
+} 
+
+a:hover {
+    color:#3385ff;
+}
+
+span:hover {
+  color:#ff8000;
+}
+
+
+
+
